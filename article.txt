@@ -1,4 +1,6 @@
 
 Github is one of the most popular remote repository which we have come across in the recent times.The commands used to interact with local repository are fetch ,merge, pull, push.
 
+It is an important tool for team work.
+
 
