@@ -8,5 +8,7 @@ There are lots of tutorial to learn git and github online.
 
 Github student pack is a very nice learning platform for students.
 
+One can also host websites on github.
+
 
 
